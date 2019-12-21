@@ -9,3 +9,5 @@ This project have been made for the course of Database at Universita degli Studi
 * _Unzip the file_
 * _Change connection URL inside the script_
 * _Run the GUI and make query to the DB_
+
+###### *Documentation of the project is provided (in italian)*
